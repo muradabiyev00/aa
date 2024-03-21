@@ -1,0 +1,21 @@
+h1{
+    color: aqua;
+    text-align: center;
+    border: 3px solid black;
+    padding: 30px;
+    margin: 40px 0 59px 3px;
+
+}
+.lorem{
+    background-color: red;
+}
+.ipsum{
+font-size: 10px; 
+color: gold;   
+}
+#murad{
+    padding: 10px;
+}
+#ferid{
+    color: black;
+}
